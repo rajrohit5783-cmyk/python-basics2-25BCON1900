@@ -52,7 +52,3 @@ Or:
 ```bash
 python3 fibonacci.py
 ```
-
-The current program generates **10 Fibonacci numbers** because `n` is set to `10`.
-
-## 💡 Examp
